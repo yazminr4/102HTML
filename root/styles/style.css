@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid rgb(130, 20, 20) */
+} 
+#logo {
+    width: 200px;
+}
+
+.enlace-en-linea {
+    display: inline-block;
+
+}
